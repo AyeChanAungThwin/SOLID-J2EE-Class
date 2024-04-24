@@ -1,4 +1,4 @@
-package io.github.ayechanaungthwin.solid.model;
+package io.github.ayechanaungthwin.solid.srp.model;
 
 public interface Condition<T> {
 

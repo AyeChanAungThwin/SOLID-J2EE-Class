@@ -1,4 +1,4 @@
-package io.github.ayechanaungthwin.solid.model;
+package io.github.ayechanaungthwin.solid.srp.model;
 
 public class SizeCondition implements Condition<Product> {
 

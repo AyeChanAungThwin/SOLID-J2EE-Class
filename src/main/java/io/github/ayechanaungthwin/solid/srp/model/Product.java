@@ -1,4 +1,4 @@
-package io.github.ayechanaungthwin.solid.model;
+package io.github.ayechanaungthwin.solid.srp.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
